@@ -1,0 +1,20 @@
+body {
+    padding: 15px;
+}
+
+h2, h3, h5 {
+    text-align: center;
+}
+
+h5 {
+    text-align: end;
+    margin: 5px;
+}
+
+p, i {
+    font-size: 18px;
+}
+
+span {
+    color: red
+}
