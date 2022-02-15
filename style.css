@@ -1,0 +1,15 @@
+body {
+    padding: 15px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p, i {
+    font-size: 18px;
+}
+
+span {
+    color: red
+}
